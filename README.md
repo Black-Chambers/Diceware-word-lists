@@ -2,6 +2,8 @@
 
 This is a repository for Diceware™ word lists in various languages. Diceware word lists are used to create random passphrases using ordinary dice. Roll a dice five times (or five dice at once) and use the numbers you get to look up a word in one of the lists. Repeat for as many words as you want in your passphrase. See diceware.com for more information.
 
+6^5 or 6<sup>5</sup> = 7,776 possible words for each outcome. Multple words are selected for the passphrase and a symbol and/or number are mixed in. 
+
 | long | 2 | 3 |
 |-----|---|----|
 | Estonian	 | et | est |
